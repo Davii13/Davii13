@@ -1,4 +1,6 @@
-## Hi there 👋
+-----
+
+<img alt="github" src="https://joaopauloaramuni.github.io/image/github-header-image.png?raw=true"/>
 
 -----
 
