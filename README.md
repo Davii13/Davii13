@@ -78,7 +78,7 @@
 </td>
 <td>
 <div>
-<img alt="SVG" src=" ![coding](https://github.com/user-attachments/assets/7e2961e5-9304-4f24-a0aa-0f2e3ca8db83)"
+<img alt="GIF" src=" ![coding](https://github.com/user-attachments/assets/7e2961e5-9304-4f24-a0aa-0f2e3ca8db83)"
  width="340px" height="650px" />
 </div>
 </td>
