@@ -1,6 +1,6 @@
 -----
 
-<img alt="github" src="https://joaopauloaramuni.github.io/image/github-header-image.png?raw=true"/>
+<img alt="github" src="https://raw.githubusercontent.com/Davii13/Davii13/main/images/github-header-banner.png"/>
 
 -----
 
