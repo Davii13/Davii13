@@ -78,7 +78,7 @@
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
+<img alt="SVG" src=" https://github.com/Davii13/Davii13/blob/main/images/MiConv.com__coding.svg?raw=true" width="340px" height="650px" />
 </div>
 </td>
 </tr>
