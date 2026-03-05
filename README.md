@@ -90,76 +90,84 @@
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>
+&nbsp;<b>Linguagens</b><br><br>
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/bash.png?raw=true"/></a></code>
-&nbsp; 
-&nbsp; 
+&nbsp;
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/javafx.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vbs.png?raw=true"/></a></code>
+
+<br><br>
+
+<b>Backend / Frameworks</b><br><br>
+
 <code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></code>
 &nbsp;
-
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://joaopauloaramuni.github.io/image/javafx.png?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/dotnet.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
+
+<br><br>
+
+<b>Frontend</b><br><br>
 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vbs.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></code>
-&nbsp; 
-
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
 &nbsp;
-
 <code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nextjs.png?raw=true"/></a></code>
-&nbsp;
 
-<code><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/prometheus.png?raw=true"/></a></code>
-&nbsp;
+<br><br>
 
-<code><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/grafana.png?raw=true"/></a></code>
-&nbsp; 
+<b>Bancos de Dados</b><br><br>
+
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></code>
+
+<br><br>
+
+<b>DevOps / Cloud</b><br><br>
 
 <code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></code>
-&nbsp; 
-
+&nbsp;
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></code>
-&nbsp; 
-
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
-&nbsp; 
-
 &nbsp;
-
+<code><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/prometheus.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/grafana.png?raw=true"/></a></code>
+
+<br><br>
+
+<b>Ferramentas</b><br><br>
+
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/gitlab.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
+
+<br><br>
+
+<b>IDEs</b><br><br>
+
 <code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/pc.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/eclipse.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/netbeans.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></code>
-&nbsp;
-
-&nbsp;
 
 </div>
 
