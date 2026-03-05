@@ -163,9 +163,9 @@
 &nbsp; 
 <code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/redis.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/s3.svg?raw=true"/></a></code>
+
 &nbsp;
-<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/sqs.png?raw=true"/></a></code>
+
 &nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></code>
 &nbsp; 
@@ -179,9 +179,9 @@
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></code>
+
 &nbsp;
-<code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/xcode.png?raw=true"/></a></code>
+
 </div>
 
 ----
