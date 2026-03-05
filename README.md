@@ -222,11 +222,10 @@
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=davii13&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.6&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=5)](https://nice-readme.vercel.app/top-langs)
 
 ----
-<table>
 [![Profile Views](https://komarev.com/ghpvc/?username=davii13&color=green&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=davii13&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=379&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&starting_year=2026)](https://nice-readme.vercel.app/streak-stats)
 
-</table>
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=davii13&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR)](https://nice-readme.vercel.app/streak-stats)
+
 ```text
 ________              .__    _______                              
 \______ \ _____ ___  _|__|   \      \  __ __  ____   ____   ______
@@ -234,5 +233,3 @@ ________              .__    _______
  |    `   \/ __ \\   /|  |  /    |    \  |  /   |  \  ___/ \___ \ 
 /_______  (____  /\_/ |__|  \____|__  /____/|___|  /\___  >____  >
         \/     \/                   \/           \/     \/     \/ 
-```
-
