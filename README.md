@@ -103,6 +103,115 @@
 
 <div>
 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/projects.svg?raw=true"/>
+&nbsp;<b>Principais Projetos</b><br><br>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+<tr>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/projeto-exemplo-1" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-1.gif" alt="Projeto 1" width="250px" height="150px"/>
+    <br>
+    <b>Projeto Exemplo 1</b>
+    <br>
+    <sub>Descrição breve do projeto</sub>
+  </a>
+</td>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/projeto-exemplo-2" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-2.gif" alt="Projeto 2" width="250px" height="150px"/>
+    <br>
+    <b>Projeto Exemplo 2</b>
+    <br>
+    <sub>Descrição breve do projeto</sub>
+  </a>
+</td>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/projeto-exemplo-3" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-3.gif" alt="Projeto 3" width="250px" height="150px"/>
+    <br>
+    <b>Projeto Exemplo 3</b>
+    <br>
+    <sub>Descrição breve do projeto</sub>
+  </a>
+</td>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/projeto-exemplo-4" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/placeholder-project-4.gif" alt="Projeto 4" width="250px" height="150px"/>
+    <br>
+    <b>Projeto Exemplo 4</b>
+    <br>
+    <sub>Descrição breve do projeto</sub>
+  </a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+</table>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+<tr>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/mockup-exemplo-1" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-1.png" alt="Mockup 1" width="250px" height="400px"/>
+    <br>
+    <b>Mockup Projeto 1</b>
+    <br>
+    <sub>Design e interface do projeto</sub>
+  </a>
+</td>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/mockup-exemplo-2" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-2.png" alt="Mockup 2" width="250px" height="400px"/>
+    <br>
+    <b>Mockup Projeto 2</b>
+    <br>
+    <sub>Design e interface do projeto</sub>
+  </a>
+</td>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/mockup-exemplo-3" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-3.png" alt="Mockup 3" width="250px" height="400px"/>
+    <br>
+    <b>Mockup Projeto 3</b>
+    <br>
+    <sub>Design e interface do projeto</sub>
+  </a>
+</td>
+<td width="280px" align="center">
+  <a href="https://github.com/Davii13/mockup-exemplo-4" target="_blank">
+    <img src="https://github.com/Davii13/Davii13/assets/mockup-project-4.png" alt="Mockup 4" width="250px" height="400px"/>
+    <br>
+    <b>Mockup Projeto 4</b>
+    <br>
+    <sub>Design e interface do projeto</sub>
+  </a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="4"></td>
+</tr> 
+</table>
+</div>
+
+</div>
+
+-----
+
+<div>
+
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>
 &nbsp;<b>Linguagens</b><br><br>
 
