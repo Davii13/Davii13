@@ -2,6 +2,19 @@
 
 <img alt="github" src="https://raw.githubusercontent.com/Davii13/Davii13/main/images/github-header-banner.png"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Davi+Nunes+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Apaixonado+por+Java+%E2%98%95+e+Carros+%F0%9F%9A%97;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/status-buscando%20estágio-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/localização-Belo%20Horizonte%2C%20MG-blue?style=for-the-badge&logo=google-maps" alt="BH"/>
+  <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
+</p>
+
 -----
 
 <div align="justify">
