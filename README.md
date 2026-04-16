@@ -30,7 +30,10 @@
 </tr> 
 <tr>
 <!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<td><a href="https://portifolio-liart-alpha.vercel.app/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://portifolio-liart-alpha.vercel.app/"><img src="<img width="1570" height="818" alt="Captura de tela 2026-04-15 222424" src="https://github.com/user-attachments/assets/40a7e173-045b-45a2-af85-6b6b6fdc1a48" />
+" width="50px" height="50px"/></a>
+</td>
+  <td><a href="https://portifolio-liart-alpha.vercel.app/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://github.com/Davii13" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
