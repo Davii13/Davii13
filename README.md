@@ -104,6 +104,42 @@
 
 <div>
 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
+&nbsp;<b>📚 Recomendações de Leitura</b><br><br>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200px">
+      <img src="https://m.media-amazon.com/images/I/41af84-HCHL._SY445_SX342_.jpg" width="120px" alt="Clean Code"/><br>
+      <b>Clean Code</b><br>
+      <sub>Robert C. Martin</sub>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://m.media-amazon.com/images/I/81sh99LXCLL._SY445_SX342_.jpg" width="120px" alt="Pragmatic Programmer"/><br>
+      <b>The Pragmatic Programmer</b><br>
+      <sub>Andrew Hunt</sub>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://m.media-amazon.com/images/I/51uI455q35L._SY445_SX342_.jpg" width="120px" alt="Entendendo Algoritmos"/><br>
+      <b>Entendendo Algoritmos</b><br>
+      <sub>Aditya Bhargava</sub>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://m.media-amazon.com/images/I/51H57C7X+GL._SY445_SX342_.jpg" width="120px" alt="Arquitetura Limpa"/><br>
+      <b>Arquitetura Limpa</b><br>
+      <sub>Robert C. Martin</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div>
+
+-----
+
+<div>
+
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/projects.svg?raw=true"/>
 &nbsp;<b>Principais Projetos</b><br><br>
 
@@ -321,6 +357,12 @@
 
 ----
 [![Profile Views](https://komarev.com/ghpvc/?username=davii13&color=green&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Davii13/Davii13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
 
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=davii13&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR)](https://nice-readme.vercel.app/streak-stats)
 
