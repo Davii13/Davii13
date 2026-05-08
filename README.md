@@ -349,9 +349,7 @@
 ----
 [![Profile Views](https://komarev.com/ghpvc/?username=davii13&color=green&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Davii13/Davii13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 
 <br>
 
