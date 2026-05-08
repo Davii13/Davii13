@@ -57,86 +57,77 @@
 
 
 -----
-
-<div>
-
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
-
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td width="500px" >
-<div align="justify">
-<p> 
-- :mortar_board: Atualmente estou cursando <code>Engenharia de Software</code> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a> e estou no <code>4º período</code>.<br />
-- ☕: Curto muito <code>Java</code> e estou aprofundando meus conhecimentos em lógica, orientação a objetos e desenvolvimento backend.<br />
-- :rocket: Estou em busca do meu <code>primeiro estágio</code> na área de tecnologia para colocar em prática tudo o que venho aprendendo.<br />
-- :gear: Tenho interesse em bancos de dados, APIs REST, organização de código e boas práticas de desenvolvimento.<br />
-- 🚗: Sou fanático por <code>carros</code> e gosto de entender como as coisas funcionam — tanto motores quanto sistemas 😄.<br />
-- 📚: Sempre buscando evoluir como desenvolvedor, estudando e desenvolvendo projetos próprios.<br />
-- :speech_balloon: Pode me chamar para conversar sobre Java, tecnologia ou carros — adoro trocar ideia!<br />
-</p>
-</div>
-</td>
-<td>
-<div>
-<img 
-  alt="GIF" 
-  src="https://github.com/user-attachments/assets/7e2961e5-9304-4f24-a0aa-0f2e3ca8db83"
-  width="340px" 
-  height="650px" 
-/>
-</div>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-
-</div>
-
-
-
------
-
-<div>
-
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>
-&nbsp;<b>📚 Recomendações de Leitura</b><br><br>
+<b>📚 Recomendações de Leitura</b>
+
+<br><br>
 
 <div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="200px">
-      <img src="https://m.media-amazon.com/images/I/41af84-HCHL._SY445_SX342_.jpg" width="120px" alt="Clean Code"/><br>
-      <b>Clean Code</b><br>
-      <sub>Robert C. Martin</sub>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://m.media-amazon.com/images/I/81sh99LXCLL._SY445_SX342_.jpg" width="120px" alt="Pragmatic Programmer"/><br>
-      <b>The Pragmatic Programmer</b><br>
-      <sub>Andrew Hunt</sub>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://m.media-amazon.com/images/I/51uI455q35L._SY445_SX342_.jpg" width="120px" alt="Entendendo Algoritmos"/><br>
-      <b>Entendendo Algoritmos</b><br>
-      <sub>Aditya Bhargava</sub>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://m.media-amazon.com/images/I/51H57C7X+GL._SY445_SX342_.jpg" width="120px" alt="Arquitetura Limpa"/><br>
-      <b>Arquitetura Limpa</b><br>
-      <sub>Robert C. Martin</sub>
-    </td>
-  </tr>
+<tr>
+
+<td align="center">
+  <img src="https://th.bing.com/th/id/R.39534082d520c9fc86e59763f32ff82f?rik=84MNI4Pxvwv5EA&pid=ImgRaw&r=0" width="120"><br>
+  <sub><b>Pense em Python</b></sub><br>
+  <sub>Allen B. Downey</sub>
+</td>
+
+<td align="center">
+  <img src="https://tse3.mm.bing.net/th/id/OIP.68oVvHkh4mVVKRkYzwcaYQHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Python Fluente</b></sub><br>
+  <sub>Luciano Ramalho</sub>
+</td>
+
+<td align="center">
+  <img src="https://th.bing.com/th/id/OIP.cA9Y1DtSz8TuhgNiw794SwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Engenharia de Software Moderna</b></sub><br>
+  <sub>Marco Tulio Valente</sub>
+</td>
+
+<td align="center">
+  <img src="https://tse3.mm.bing.net/th/id/OIP.XLbNNxlPwIfn__w3zkDvzgHaJ-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Engenharia de Software</b></sub><br>
+  <sub>Ian Sommerville</sub>
+</td>
+
+</tr>
+
+<tr><td><br></td></tr>
+
+<tr>
+
+<td align="center">
+  <img src="https://th.bing.com/th/id/OIP._rIOtIDQxSLJT8ORAEensgHaKG?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Fundamentos de Sistemas Operacionais</b></sub><br>
+  <sub>Silberschatz, Galvin e Gagne</sub>
+</td>
+
+<td align="center">
+  <img src="https://tse1.mm.bing.net/th/id/OIP.9zxEYLr-xoCAsG8oN-bUAAHaLi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>Scrum</b></sub><br>
+  <sub>Jeff Sutherland</sub>
+</td>
+
+<td align="center">
+  <img src="https://toidicodedao.com/wp-content/uploads/2015/03/71ambnhelil-e1552820007165.jpg" width="120"><br>
+  <sub><b>Clean Code</b></sub><br>
+  <sub>Robert C. Martin</sub>
+</td>
+
+<td align="center">
+  <img src="https://tse2.mm.bing.net/th/id/OIP.jR1KbeMkRtF2a4tvqI28hgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <sub><b>The Pragmatic Programmer</b></sub><br>
+  <sub>Andrew Hunt &amp; David Thomas</sub>
+</td>
+
+</tr>
 </table>
-</div>
 
 </div>
 
------
+---
+
 
 <div>
 
