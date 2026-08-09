@@ -353,7 +353,6 @@
 
 <br>
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=davii13&theme=apprentice&hide_border=true&border_radius=4.5&locale=pt_BR)](https://nice-readme.vercel.app/streak-stats)
 
 ```text
 ________              .__    _______                              
