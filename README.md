@@ -1,11 +1,11 @@
 <img alt="github" src="https://raw.githubusercontent.com/Davii13/Davii13/main/images/github-header-banner.png"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+sou+o+Davi+Nunes+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Estagi%C3%A1rio+na+SECULT+%F0%9F%8F%9B%EF%B8%8F;Apaixonado+por+Java+%E2%98%95+e+Carros+%F0%9F%9A%97;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ola%2C+sou+o+Davi+Nunes;Estudante+de+Engenharia+de+Software;Estagiario+na+SECULT;Apaixonado+por+Java+e+Carros;Sempre+aprendendo+e+evoluindo" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davii13&color=blueviolet&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Davii13&color=blueviolet&style=for-the-badge&label=VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Estagi%C3%A1rio-SECULT-brightgreen?style=for-the-badge" alt="Estagiário SECULT"/>
   <img src="https://img.shields.io/badge/Belo%20Horizonte-MG-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="BH"/>
   <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
@@ -49,7 +49,7 @@ public class Davi {
 <div align="center">
 <table>
 <tr>
-  <td><a href="https://portifolio-io3dtl25z-davi-nunes-carvalhos-projects.vercel.app/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px" alt="Portfólio"/></a></td>
+  <td><a href="https://portifolio-io3dtl25z-davi-nunes-carvalhos-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/96/domain.png" width="50px" height="50px" alt="Portfólio"/></a></td>
   <td><a href="https://github.com/Davii13" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px" alt="GitHub"/></a></td>
   <td><a href="mailto:davinunescarvalho35@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/></a></td>
   <td><a href="https://wa.me/5531996146933" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/></a></td>
@@ -144,21 +144,22 @@ public class Davi {
 
 ## 📂 Principais Projetos
 
-<!-- Troque os links e imagens pelos dos seus repositórios reais -->
+<!-- Troque NOME-DO-REPO pelo nome real de cada repositório.
+     A imagem "opengraph" é a prévia que o próprio GitHub gera do repositório. -->
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/rastro" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davii13&repo=rastro&theme=tokyonight&hide_border=true" alt="Rastro"/>
+  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=F75C7E&height=120&text=Rastro&fontSize=40&fontColor=ffffff&desc=Pets%20perdidos&descAlignY=75&descSize=16" width="380" alt="Rastro"/>
   </a>
   <br>
   <b>🐾 Rastro</b><br>
   <sub>App de alerta comunitário para pets perdidos — projeto de Desenvolvimento de Aplicações Móveis.</sub>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/sistema-relatorios" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davii13&repo=sistema-relatorios&theme=tokyonight&hide_border=true" alt="Sistema de Relatórios"/>
+  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=120&text=Sistema%20de%20Relat%C3%B3rios&fontSize=32&fontColor=F75C7E&desc=Python%20%2B%20Excel&descAlignY=75&descSize=16" width="380" alt="Sistema de Relatórios"/>
   </a>
   <br>
   <b>📊 Sistema de Relatórios</b><br>
@@ -167,16 +168,16 @@ public class Davi {
 </tr>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/projeto-exemplo-3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davii13&repo=projeto-exemplo-3&theme=tokyonight&hide_border=true" alt="Projeto 3"/>
+  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/Davii13/NOME-DO-REPO" width="380" alt="Projeto 3"/>
   </a>
   <br>
   <b>Projeto 3</b><br>
   <sub>Descrição breve do projeto.</sub>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/projeto-exemplo-4" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davii13&repo=projeto-exemplo-4&theme=tokyonight&hide_border=true" alt="Projeto 4"/>
+  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
+    <img src="https://opengraph.githubassets.com/1/Davii13/NOME-DO-REPO" width="380" alt="Projeto 4"/>
   </a>
   <br>
   <b>Projeto 4</b><br>
@@ -202,14 +203,21 @@ public class Davi {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davii13&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%20dias" alt="Gráfico de atividade" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davii13&theme=tokyonight" alt="Resumo do perfil" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davii13&theme=tokyonight" alt="Repos por linguagem" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davii13&theme=tokyonight" alt="Commits por linguagem" height="170"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davii13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Troféus"/>
+  <img src="https://ghchart.rshah.org/F75C7E/Davii13" alt="Gráfico de contribuições" width="100%"/>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://wakatime.com/@Davii13" target="_blank">⌚ Meu tempo de código no WakaTime</a>
@@ -231,41 +239,43 @@ public class Davi {
 
 ## 📚 Recomendações de Leitura
 
+<!-- As duas primeiras capas ficam na pasta images do repositório:
+     images/pense-em-python.jpg e images/python-fluente.jpg -->
 <div align="center">
 <table>
 <tr>
 <td align="center">
-  <img src="https://th.bing.com/th/id/R.39534082d520c9fc86e59763f32ff82f?rik=84MNI4Pxvwv5EA&pid=ImgRaw&r=0" width="120"><br>
+  <img src="images/pense-em-python.jpg" width="120" alt="Pense em Python"><br>
   <sub><b>Pense em Python</b></sub><br><sub>Allen B. Downey</sub>
 </td>
 <td align="center">
-  <img src="https://tse3.mm.bing.net/th/id/OIP.68oVvHkh4mVVKRkYzwcaYQHaD4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="images/python-fluente.jpg" width="120" alt="Python Fluente"><br>
   <sub><b>Python Fluente</b></sub><br><sub>Luciano Ramalho</sub>
 </td>
 <td align="center">
-  <img src="https://th.bing.com/th/id/OIP.cA9Y1DtSz8TuhgNiw794SwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="https://th.bing.com/th/id/OIP.cA9Y1DtSz8TuhgNiw794SwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Engenharia de Software Moderna"><br>
   <sub><b>Engenharia de Software Moderna</b></sub><br><sub>Marco Tulio Valente</sub>
 </td>
 <td align="center">
-  <img src="https://tse3.mm.bing.net/th/id/OIP.XLbNNxlPwIfn__w3zkDvzgHaJ-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.XLbNNxlPwIfn__w3zkDvzgHaJ-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Engenharia de Software"><br>
   <sub><b>Engenharia de Software</b></sub><br><sub>Ian Sommerville</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://th.bing.com/th/id/OIP._rIOtIDQxSLJT8ORAEensgHaKG?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="https://th.bing.com/th/id/OIP._rIOtIDQxSLJT8ORAEensgHaKG?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Fundamentos de Sistemas Operacionais"><br>
   <sub><b>Fundamentos de Sistemas Operacionais</b></sub><br><sub>Silberschatz, Galvin e Gagne</sub>
 </td>
 <td align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.9zxEYLr-xoCAsG8oN-bUAAHaLi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.9zxEYLr-xoCAsG8oN-bUAAHaLi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Scrum"><br>
   <sub><b>Scrum</b></sub><br><sub>Jeff Sutherland</sub>
 </td>
 <td align="center">
-  <img src="https://toidicodedao.com/wp-content/uploads/2015/03/71ambnhelil-e1552820007165.jpg" width="120"><br>
+  <img src="https://toidicodedao.com/wp-content/uploads/2015/03/71ambnhelil-e1552820007165.jpg" width="120" alt="Clean Code"><br>
   <sub><b>Clean Code</b></sub><br><sub>Robert C. Martin</sub>
 </td>
 <td align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.jR1KbeMkRtF2a4tvqI28hgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120"><br>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.jR1KbeMkRtF2a4tvqI28hgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="The Pragmatic Programmer"><br>
   <sub><b>The Pragmatic Programmer</b></sub><br><sub>Andrew Hunt &amp; David Thomas</sub>
 </td>
 </tr>
