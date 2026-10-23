@@ -1,4 +1,5 @@
-<img alt="github" src="https://raw.githubusercontent.com/Davii13/Davii13/main/images/github-header-banner.png"/>
+<img alt="github" src="<img width="2560" height="1000" alt="github-header-banner" src="https://github.com/user-attachments/assets/d28810b8-db81-4576-8612-355d2865a071" />
+"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Ola%2C+sou+o+Davi+Nunes;Estudante+de+Engenharia+de+Software;Estagiario+na+SECULT;Apaixonado+por+Java+e+Carros;Sempre+aprendendo+e+evoluindo" alt="Typing SVG"/>
