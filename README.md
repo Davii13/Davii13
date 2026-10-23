@@ -16,18 +16,27 @@
 ## 👨‍💻 Sobre mim
 
 <div align="justify">
-Olá! 👋 Sou o <b>Davi Nunes Carvalho</b>, tenho 20 anos, moro em Belo Horizonte e sou estudante de <b>Engenharia de Software</b> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Atualmente estagio na <b>SECULT</b>, onde aplico no dia a dia o que aprendo na faculdade. Gosto de entender como as coisas funcionam por baixo dos panos — seja um sistema backend ou o motor de um carro.
+Olá! 👋 Sou o <b>Davi Nunes Carvalho</b>, tenho 20 anos, moro em Belo Horizonte e sou estudante de <b>Engenharia de Software</b> na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. Sou focado em <b>desenvolvimento back-end</b>, criando APIs, sistemas escaláveis e soluções eficientes, e também atuo no front-end como <b>Full Stack</b>. Meu objetivo é construir aplicações que resolvam problemas reais com código limpo.
 </div>
 
 <br>
 
-- 🏛️ Estagiário na **SECULT**
-- 🎓 Cursando o **5º período** de Engenharia de Software na PUC Minas
-- ☕ Linguagem favorita: **Java** (com Spring no backend)
-- 📱 Estudando atualmente: **desenvolvimento de aplicações móveis**
-- 🐍 Também curto automatizar coisas com **Python**
+- 🏛️ Estagiário de TI na **SECULT** (Secretaria de Cultura e Turismo)
+- 💼 Desenvolvedor Full Stack no projeto **Amavi**
+- 🎓 Cursando o **5º período** de Engenharia de Software na PUC Minas (2024 – 2028)
+- ☕ Stack principal: **Java + Spring Boot** no back-end, **React / Next.js** no front-end
+- 📖 Lendo agora: **Arquitetura Limpa** e **Fundamentos da Arquitetura de Software**
+- 🌎 Idiomas: Português e Inglês
 - 🚗 Fora do código: apaixonado por **carros**
 - 📫 Fale comigo: **davinunescarvalho35@gmail.com**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/2%2B-Anos_de_experi%C3%AAncia-F75C7E?style=for-the-badge" alt="Experiência"/>
+  <img src="https://img.shields.io/badge/13%2B-Projetos-1A1B27?style=for-the-badge" alt="Projetos"/>
+  <img src="https://img.shields.io/badge/10%2B-Tecnologias-F75C7E?style=for-the-badge" alt="Tecnologias"/>
+</div>
+
+<br>
 
 ```java
 public class Davi {
@@ -35,8 +44,8 @@ public class Davi {
     int idade          = 20;
     String cidade      = "Belo Horizonte - MG";
     String curso       = "Engenharia de Software @ PUC Minas";
-    String trabalho    = "Estagiário @ SECULT";
-    String[] stack     = {"Java", "Spring", "Python", "TypeScript", "React"};
+    String[] trabalho  = {"Estagiário de TI @ SECULT", "Full Stack @ Amavi"};
+    String[] stack     = {"Java", "Spring Boot", "React", "Next.js", "Python"};
     String[] hobbies   = {"Carros", "Programar", "Aprender coisas novas"};
     String lema        = "Código limpo é código que outra pessoa entende.";
 }
@@ -49,7 +58,7 @@ public class Davi {
 <div align="center">
 <table>
 <tr>
-  <td><a href="https://portifolio-io3dtl25z-davi-nunes-carvalhos-projects.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/96/domain.png" width="50px" height="50px" alt="Portfólio"/></a></td>
+  <td><a href="https://portifolio-liart-alpha.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/96/domain.png" width="50px" height="50px" alt="Portfólio"/></a></td>
   <td><a href="https://github.com/Davii13" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px" alt="GitHub"/></a></td>
   <td><a href="mailto:davinunescarvalho35@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/></a></td>
   <td><a href="https://wa.me/5531996146933" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/></a></td>
@@ -92,6 +101,13 @@ public class Davi {
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 <b>🗄️ Bancos de Dados & Cache</b><br>
@@ -109,6 +125,7 @@ public class Davi {
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
@@ -144,48 +161,120 @@ public class Davi {
 
 ## 📂 Principais Projetos
 
-<!-- Troque NOME-DO-REPO pelo nome real de cada repositório.
-     A imagem "opengraph" é a prévia que o próprio GitHub gera do repositório. -->
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=F75C7E&height=120&text=Rastro&fontSize=40&fontColor=ffffff&desc=Pets%20perdidos&descAlignY=75&descSize=16" width="380" alt="Rastro"/>
-  </a>
-  <br>
-  <b>🐾 Rastro</b><br>
-  <sub>App de alerta comunitário para pets perdidos — projeto de Desenvolvimento de Aplicações Móveis.</sub>
+  <a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti2-3687100-brecho-re-use" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=F75C7E&height=150&text=Re.use&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Brech%C3%B3%20online&descAlignY=70&descSize=15" width="380" alt="Re.use"/></a><br>
+  <b>♻️ Re.use</b> <sub>· 2025</sub><br>
+  <sub>Plataforma de brechó online para compra e venda de roupas de segunda mão, incentivando o consumo sustentável.</sub><br>
+  <code>Spring Boot</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=120&text=Sistema%20de%20Relat%C3%B3rios&fontSize=32&fontColor=F75C7E&desc=Python%20%2B%20Excel&descAlignY=75&descSize=16" width="380" alt="Sistema de Relatórios"/>
-  </a>
-  <br>
-  <b>📊 Sistema de Relatórios</b><br>
-  <sub>Extração de relatórios a partir de planilhas Excel, com exportação em múltiplos formatos (Python).</sub>
+  <a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9545100-Oficina-Mecanica" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=150&text=Japan%20Motors&fontSize=38&fontColor=F75C7E&fontAlignY=42&desc=Gest%C3%A3o%20de%20oficina&descAlignY=70&descSize=15" width="380" alt="Japan Motors"/></a><br>
+  <b>🔧 Japan Motors</b> <sub>· 2025</sub><br>
+  <sub>Sistema web de gestão de clientes, veículos e ordens de serviço da oficina Japan Motors.</sub><br>
+  <code>Java</code> <code>Spring Boot</code> <code>MySQL</code>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/Davii13/NOME-DO-REPO" width="380" alt="Projeto 3"/>
-  </a>
-  <br>
-  <b>Projeto 3</b><br>
-  <sub>Descrição breve do projeto.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=150&text=Amavi&fontSize=38&fontColor=F75C7E&fontAlignY=42&desc=Gest%C3%A3o%20de%20pacientes&descAlignY=70&descSize=15" width="380" alt="Amavi"/><br>
+  <b>🏥 Amavi</b> <sub>· 2026</sub><br>
+  <sub>Gestão de pacientes, consultas e processos internos com dashboards interativos e automação de tarefas.</sub><br>
+  <code>React</code> <code>Java</code> <code>Spring Boot</code> <code>MySQL</code>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/Davii13/NOME-DO-REPO" target="_blank">
-    <img src="https://opengraph.githubassets.com/1/Davii13/NOME-DO-REPO" width="380" alt="Projeto 4"/>
-  </a>
-  <br>
-  <b>Projeto 4</b><br>
-  <sub>Descrição breve do projeto.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F75C7E&height=150&text=Classe%20A%20Drive&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Loca%C3%A7%C3%A3o%20de%20ve%C3%ADculos&descAlignY=70&descSize=15" width="380" alt="Classe A Drive"/><br>
+  <b>🚘 Classe A Drive</b> <sub>· 2026</sub><br>
+  <sub>Sistema de locação de veículos com portais para clientes e agentes/bancos, substituindo processos manuais.</sub><br>
+  <code>Java</code> <code>Micronaut</code> <code>React</code> <code>PostgreSQL</code>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F75C7E&height=150&text=PUCPay&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Moeda%20estudantil&descAlignY=70&descSize=15" width="380" alt="PUCPay"/><br>
+  <b>🪙 PUCPay</b> <sub>· 2026</sub><br>
+  <sub>Sistema de moeda estudantil com gamificação e economia virtual baseada em PUCCoins.</sub><br>
+  <code>Java</code> <code>React</code> <code>Spring Boot</code> <code>RabbitMQ</code>
+</td>
+<td width="50%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=150&text=HomeFix&fontSize=38&fontColor=F75C7E&fontAlignY=42&desc=Reparos%20em%20condom%C3%ADnios&descAlignY=70&descSize=15" width="380" alt="HomeFix"/><br>
+  <b>🏠 HomeFix</b> <sub>· 2026</sub><br>
+  <sub>Plataforma web e mobile para solicitar e acompanhar serviços de manutenção em condomínios.</sub><br>
+  <code>React</code> <code>Flutter</code> <code>Microsserviços</code> <code>RabbitMQ</code>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&height=150&text=Sensitive%20Data&fontSize=38&fontColor=F75C7E&fontAlignY=42&desc=Detector&descAlignY=70&descSize=15" width="380" alt="Sensitive Data"/><br>
+  <b>🔍 Sensitive Data Detector</b> <sub>· 2025</sub><br>
+  <sub>API REST que detecta dados sensíveis e conteúdo impróprio em imagens com OCR e análise de padrões.</sub><br>
+  <code>Python</code> <code>OCR</code> <code>API REST</code>
+</td>
+<td width="50%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F75C7E&height=150&text=Rastro&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Pets%20perdidos&descAlignY=70&descSize=15" width="380" alt="Rastro"/><br>
+  <b>🐾 Rastro</b> <sub>· 2026</sub><br>
+  <sub>App de alerta comunitário para pets perdidos — Desenvolvimento de Aplicações Móveis (em desenvolvimento).</sub><br>
+  <code>Mobile</code>
 </td>
 </tr>
 </table>
 </div>
+
+<details>
+<summary><b>➕ Outros projetos</b></summary>
+<br>
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| Heatcore Telemetry Pro | Dashboard de monitoramento de sistema com visual de painel de telemetria | Python |
+| Face Recognition | Reconhecimento facial em tempo real pela webcam | Python · OpenCV |
+| PDF Translator | Tradução automática de arquivos PDF | Python · PyMuPDF |
+| DocView | Visualizador de documentos desktop focado em leitura | Python |
+| [Directory Organizer Engine](https://github.com/Davii13/Directory-Organizer-Engine) | Motor multiplataforma de organização de arquivos (CLI) | Python |
+| Arquitetura Java 12 Pacotes | Padrão de estruturação de sistemas Java em 12 pacotes | Java · Spring Boot |
+| [DevProfile](https://github.com/Davii13/DevProfile) | Plataforma online para construção de identidade profissional | TypeScript |
+| [Companhia Aérea Voo Seguro](https://github.com/Davii13/Companhia-Aerea-Voo-Seguro) | Trabalho interdisciplinar de FES e AEDs I | PUC Minas |
+
+</details>
+
+<div align="center">
+<br>
+<a href="https://portifolio-liart-alpha.vercel.app/#projetos" target="_blank"><img src="https://img.shields.io/badge/Ver_no_portf%C3%B3lio-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+<a href="https://github.com/Davii13?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Todos_os_reposit%C3%B3rios-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/></a>
+</div>
+
+---
+
+## 💼 Experiência
+
+| Cargo | Onde | Período | Stack |
+|---|---|---|---|
+| **Estagiário de TI** | SECULT — Secretaria de Cultura e Turismo | Ago 2026 – atual | Suporte técnico, sistemas internos |
+| **Desenvolvedor Full Stack** | Amavi | 2026 – atual | Java, Spring Boot, React, MySQL |
+| **Desenvolvedor Full Stack** | Japan Motors | 2025 – 2026 | React, TypeScript, Node.js, REST API |
+
+**🎓 Formação:** Engenharia de Software — PUC Minas (2024 – 2028)
+
+<div align="center">
+<br>
+<a href="https://portifolio-liart-alpha.vercel.app/images/Curr%C3%ADculo_Davi_NunesCarvalho.pdf" target="_blank"><img src="https://img.shields.io/badge/Baixar_curr%C3%ADculo-PDF-F75C7E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo"/></a>
+</div>
+
+---
+
+## ✍️ Artigos
+
+| Tema | Artigo | Data |
+|---|---|---|
+| Arquitetura | Microservices e Arquitetura Distribuída | Abr 2026 |
+| Design Patterns | Padrões de Projeto na Prática: Facade | Mar 2026 |
+| Arquitetura | Modularização e Big Ball of Mud | Mar 2026 |
+| Pesquisa | Impacto do Uso de Tecnologia na Saúde Mental | Nov 2025 |
+| Sistemas Distribuídos | BitTorrent e Estratégias de Caching | 2025 |
+
+<sub>Leia no <a href="https://portifolio-liart-alpha.vercel.app" target="_blank">portfólio</a>.</sub>
 
 ---
 
@@ -237,46 +326,63 @@ public class Davi {
 
 ---
 
-## 📚 Recomendações de Leitura
+## 📚 Biblioteca
 
-<!-- As duas primeiras capas ficam na pasta images do repositório:
-     images/pense-em-python.jpg e images/python-fluente.jpg -->
+<b>📖 Lendo atualmente</b>
+
 <div align="center">
 <table>
 <tr>
 <td align="center">
-  <img src="images/pense-em-python.jpg" width="120" alt="Pense em Python"><br>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/arquitetura-limpa.png" width="120" height="170" alt="Arquitetura Limpa"><br>
+  <sub><b>Arquitetura Limpa</b></sub><br><sub>Robert C. Martin</sub>
+</td>
+<td align="center">
+  <img src="https://portifolio-liart-alpha.vercel.app/images/fundamentos-arquitetura-software.jpg" width="120" height="170" alt="Fundamentos da Arquitetura de Software"><br>
+  <sub><b>Fundamentos da Arquitetura de Software</b></sub><br><sub>Mark Richards & Neal Ford</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<b>✅ Já lidos</b>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/pense-python.png" width="120" height="170" alt="Pense em Python"><br>
   <sub><b>Pense em Python</b></sub><br><sub>Allen B. Downey</sub>
 </td>
 <td align="center">
-  <img src="images/python-fluente.jpg" width="120" alt="Python Fluente"><br>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/python-fluente.png" width="120" height="170" alt="Python Fluente"><br>
   <sub><b>Python Fluente</b></sub><br><sub>Luciano Ramalho</sub>
 </td>
 <td align="center">
-  <img src="https://th.bing.com/th/id/OIP.cA9Y1DtSz8TuhgNiw794SwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Engenharia de Software Moderna"><br>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/engSoftwaremoderna.webp" width="120" height="170" alt="Engenharia de Software Moderna"><br>
   <sub><b>Engenharia de Software Moderna</b></sub><br><sub>Marco Tulio Valente</sub>
 </td>
 <td align="center">
-  <img src="https://tse3.mm.bing.net/th/id/OIP.XLbNNxlPwIfn__w3zkDvzgHaJ-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Engenharia de Software"><br>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/sommervile.jpg" width="120" height="170" alt="Engenharia de Software"><br>
   <sub><b>Engenharia de Software</b></sub><br><sub>Ian Sommerville</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-  <img src="https://th.bing.com/th/id/OIP._rIOtIDQxSLJT8ORAEensgHaKG?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Fundamentos de Sistemas Operacionais"><br>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/so.webp" width="120" height="170" alt="Fundamentos de Sistemas Operacionais"><br>
   <sub><b>Fundamentos de Sistemas Operacionais</b></sub><br><sub>Silberschatz, Galvin e Gagne</sub>
 </td>
 <td align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.9zxEYLr-xoCAsG8oN-bUAAHaLi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="Scrum"><br>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/scrumft.webp" width="120" height="170" alt="Scrum"><br>
   <sub><b>Scrum</b></sub><br><sub>Jeff Sutherland</sub>
 </td>
 <td align="center">
-  <img src="https://toidicodedao.com/wp-content/uploads/2015/03/71ambnhelil-e1552820007165.jpg" width="120" alt="Clean Code"><br>
-  <sub><b>Clean Code</b></sub><br><sub>Robert C. Martin</sub>
+  <img src="https://portifolio-liart-alpha.vercel.app/assets/books/pragmatic-programmer.jpg" width="120" height="170" alt="O Programador Pragmático"><br>
+  <sub><b>O Programador Pragmático</b></sub><br><sub>Andrew Hunt & David Thomas</sub>
 </td>
 <td align="center">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.jR1KbeMkRtF2a4tvqI28hgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="120" alt="The Pragmatic Programmer"><br>
-  <sub><b>The Pragmatic Programmer</b></sub><br><sub>Andrew Hunt &amp; David Thomas</sub>
+  <img src="https://toidicodedao.com/wp-content/uploads/2015/03/71ambnhelil-e1552820007165.jpg" width="120" height="170" alt="Clean Code"><br>
+  <sub><b>Clean Code</b></sub><br><sub>Robert C. Martin</sub>
 </td>
 </tr>
 </table>
