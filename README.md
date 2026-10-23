@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Davii13&color=blueviolet&style=for-the-badge&label=VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Estagi%C3%A1rio-SECULT-brightgreen?style=for-the-badge" alt="Estagiário SECULT"/>
   <img src="https://img.shields.io/badge/Belo%20Horizonte-MG-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="BH"/>
-  <img src="https://img.shields.io/badge/PUC%20Minas-4º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
+  <img src="https://img.shields.io/badge/PUC%20Minas-5º%20Período-orange?style=for-the-badge" alt="PUC Minas"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@ Olá! 👋 Sou o <b>Davi Nunes Carvalho</b>, tenho 20 anos, moro em Belo Horizon
 <br>
 
 - 🏛️ Estagiário na **SECULT**
-- 🎓 Cursando o **4º período** de Engenharia de Software na PUC Minas
+- 🎓 Cursando o **5º período** de Engenharia de Software na PUC Minas
 - ☕ Linguagem favorita: **Java** (com Spring no backend)
 - 📱 Estudando atualmente: **desenvolvimento de aplicações móveis**
 - 🐍 Também curto automatizar coisas com **Python**
