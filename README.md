@@ -264,19 +264,7 @@ public class Davi {
 
 ---
 
-## ✍️ Artigos
 
-| Tema | Artigo | Data |
-|---|---|---|
-| Arquitetura | Microservices e Arquitetura Distribuída | Abr 2026 |
-| Design Patterns | Padrões de Projeto na Prática: Facade | Mar 2026 |
-| Arquitetura | Modularização e Big Ball of Mud | Mar 2026 |
-| Pesquisa | Impacto do Uso de Tecnologia na Saúde Mental | Nov 2025 |
-| Sistemas Distribuídos | BitTorrent e Estratégias de Caching | 2025 |
-
-<sub>Leia no <a href="https://portifolio-liart-alpha.vercel.app" target="_blank">portfólio</a>.</sub>
-
----
 
 ## 📊 Estatísticas no GitHub
 
